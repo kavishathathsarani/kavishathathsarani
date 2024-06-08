@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Full Stack Developer | UI/UX Designer | FOSS Volunteer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavishathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="kavishathathsarani" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="kavishathathsarani" /> </p>
 
 - 🌱 I’m currently learning **java**
 
@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **kaviherath377@gmail.com**
 
+  <img  align="center"  src="<img  align="center"  src="![image](https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3d457baa-0105-45d2-9624-ad574280e338)
+"/>"/>
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/kavishathathsarani" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavishathathsarani" height="40" width="50" /></a>
@@ -54,8 +57,12 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishathathsarani&show_icons=true&locale=en&layout=compact" alt="kavishathathsarani" /></p>
+<a href="https://github.com/azizovrafael">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavishathathsarani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&locale=en" alt="kavishathathsarani" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&" alt="kavishathathsarani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&" alt="kavishathathsarani" />
+  <img src="https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3773e4a7-4d03-4eb6-bf22-87a9b5f0d60b">
+</p>
