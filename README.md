@@ -56,13 +56,18 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50" width="50"/> 
   </a> 
 </p>
+<br>
 
 <a href="https://github.com/kavishathathsarani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavishathathsarani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  
 </a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishathathsarani&show_icons=true&locale=en&layout=compact" alt="kavishathathsarani" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&locale=en" alt="kavishathathsarani" /></p
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&" alt="kavishathathsarani" />
-  <img src="https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3773e4a7-4d03-4eb6-bf22-87a9b5f0d60b">
+  
+<br><br>  <img src="https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3773e4a7-4d03-4eb6-bf22-87a9b5f0d60b">
 </p>
