@@ -57,7 +57,7 @@
   </a> 
 </p>
 
-<a href="https://github.com/azizovrafael">
+<a href="https://github.com/kavishathathsarani">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavishathathsarani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  
 </a>
