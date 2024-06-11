@@ -5,14 +5,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavishathathsarani&label=Profile%20views&color=0e75b6&style=flat" alt="kavishathathsarani" /> </p>
 
-- 🌱 I’m currently learning **java**
+<img src ="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg?w=360" align="right" width="300" height="300" />
+
+- 🌱 I’m currently learning **react , next.js , Tailwind**
 
 - 💬 Ask me about **UI/UX Designing and Full Stack Development**
 
 - 📫 How to reach me **kaviherath377@gmail.com**
 
-  <img  align="center"  src="<img  align="center"  src="![image](https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3d457baa-0105-45d2-9624-ad574280e338)
-"/>"/>
+<img  align="center"  src="![image](https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3d457baa-0105-45d2-9624-ad574280e338)"/>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -58,16 +59,16 @@
 </p>
 <br>
 
-<a href="https://github.com/kavishathathsarani">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kavishathathsarani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- 
-</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavishathathsarani&show_icons=true&locale=en&layout=compact" alt="kavishathathsarani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&locale=en" alt="kavishathathsarani" /></p
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&" alt="kavishathathsarani" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+
+
   
-<br><br>  <img src="https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3773e4a7-4d03-4eb6-bf22-87a9b5f0d60b">
+<br><br>  <img  align="left" width="500" height="400" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png">
 </p>
