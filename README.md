@@ -17,7 +17,7 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/kavishathathsarani" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavishathathsarani" height="40" width="50" /></a>
+<a href="https://lk.linkedin.com/in/kavishathathsarn" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavishathathsarani" height="40" width="50" /></a>
   <a href="https://kaggle.com/kavishathathsarani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kavishathathsarani" height="40" width="50" /></a>
 </p>
 
