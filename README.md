@@ -1,5 +1,5 @@
 <p align="center">
-    <img  align="left" width="500" height="400" src="https://github.com/kavishathathsarani/kavisha/blob/main/kavi.jpg">
+    <img   src="https://github.com/kavishathathsarani/kavisha/blob/main/kavi.jpg">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Kavisha+Thathsarani ;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
