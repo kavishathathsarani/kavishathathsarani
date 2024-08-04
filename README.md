@@ -21,7 +21,7 @@
 <img  align="center"  src="![image](https://github.com/kavishathathsarani/kavishathathsarani/assets/135618896/3d457baa-0105-45d2-9624-ad574280e338)"/>
 
 
-<br><br> 
+<br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://lk.linkedin.com/in/kavishathathsarn" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="kavishathathsarani" height="40" width="50" /></a>
