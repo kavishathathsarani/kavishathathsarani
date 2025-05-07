@@ -2,7 +2,7 @@
     <img   src="https://github.com/kavishathathsarani/kavisha/blob/main/kavisha.png">
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+I+am+Kavisha+Thathsarani ;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&lines=Hi%F0%9F%91%8B+I+am+Kavisha+Thathsarani+Herath" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Full Stack Developer | UI/UX Designer | FOSS Volunteer</h3>
 
