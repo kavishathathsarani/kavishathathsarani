@@ -44,6 +44,11 @@
 <p align="center">
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
 
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishathathsarani_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
+  
+</div>
 
 <br><br>  <img src="https://private-user-images.githubusercontent.com/107881423/352668016-e6052b69-58aa-4e8a-aeed-8fdeb73cda07.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NTMxNjcsIm5iZiI6MTcyMjc1Mjg2NywicGF0aCI6Ii8xMDc4ODE0MjMvMzUyNjY4MDE2LWU2MDUyYjY5LTU4YWEtNGU4YS1hZWVkLThmZGViNzNjZGEwNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQwNjI3NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MGNiZjYwOGQ5MWJjOGNmNjM1OTY3NGY0YTI0ZDJmY2Y3NmFiYTY2MWEzNTViY2VhNTdmOWY5ODI0ZWY1NTVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vS5Aq-MqYc85TXp71XcVO2IMkNzOqXfGxvi-H95IlLU">
 </p>
