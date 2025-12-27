@@ -41,10 +41,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&background=000000&stroke=130F40&ring=2234AE&fire=D3D3D3&currStreakNum=D3D3D3&sideNums=D3D3D3&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=D3D3D3" alt="GitHub Streak" />
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishathathsarani&layout=compact&theme=tokyonight"/>
+
+</div>
 
 <div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&theme=tokyonight&hide_border=true)
+  
+</div>
+
+<div align="center">
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishathathsarani&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
+  
+</div>
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishathathsarani_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
   
