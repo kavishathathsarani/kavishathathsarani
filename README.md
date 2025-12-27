@@ -37,16 +37,6 @@
 </p>
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&locale=en" alt="GitHub Stats" />
-</p>
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavishathathsarani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavishathathsarani&layout=compact&theme=tokyonight"/>
-
-</div>
 
 <div align="center">
   
@@ -58,5 +48,5 @@
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishathathsarani&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
   
-jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjI3NTMxNjcsIm5iZiI6MTcyMjc1Mjg2NywicGF0aCI6Ii8xMDc4ODE0MjMvMzUyNjY4MDE2LWU2MDUyYjY5LTU4YWEtNGU4YS1hZWVkLThmZGViNzNjZGEwNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgwNFQwNjI3NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MGNiZjYwOGQ5MWJjOGNmNjM1OTY3NGY0YTI0ZDJmY2Y3NmFiYTY2MWEzNTViY2VhNTdmOWY5ODI0ZWY1NTVjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vS5Aq-MqYc85TXp71XcVO2IMkNzOqXfGxvi-H95IlLU">
-</p>
+</div>
+<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VvNmdkNDhrcnZrMzRmdHh2MWUyMnlxeXl2YTBuY3BhMmJ3eHlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
