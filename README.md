@@ -38,15 +38,5 @@
 <br>
 
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kavishathathsarani&theme=tokyonight&hide_border=true)
-  
-</div>
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kavishathathsarani&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
-  
-</div>
 <img align="center" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VvNmdkNDhrcnZrMzRmdHh2MWUyMnlxeXl2YTBuY3BhMmJ3eHlmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif">
